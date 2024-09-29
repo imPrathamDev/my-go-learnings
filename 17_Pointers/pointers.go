@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 type User struct {
-	Age int
+	Age  int
 	Name string
 	role string
 }
